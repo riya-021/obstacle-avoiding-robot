@@ -10,17 +10,4 @@ Built using **Arduino**, **DC motors**, **ultrasonic sensors**, and a **servo mo
 - Stops when an obstacle is detected
 - Scans left and right using a servo to find an alternate path
 - Backs up and turns if stuck
-- Dual ultrasonic sensors — one for front distance, one for depth (optional)
-
-## Hardware Components
-
-| Component            | Quantity |
-|---------------------|----------|
-| Arduino Uno         | 1        |
-| HC-SR04 Ultrasonic Sensors | 2        |
-| SG90 Servo Motor     | 1        |
-| L298N or motor driver | 1        |
-| DC Motors + Wheels  | 2        |
-| Chassis             | 1        |
-| Power Supply (Battery) | 1        |
-| Jumper Wires        | ~10      |
+- Dual ultrasonic sensors — one for front distance, one for depth
