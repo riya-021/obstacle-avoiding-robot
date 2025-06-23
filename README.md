@@ -24,14 +24,3 @@ Built using **Arduino**, **DC motors**, **ultrasonic sensors**, and a **servo mo
 | Chassis             | 1        |
 | Power Supply (Battery) | 1        |
 | Jumper Wires        | ~10      |
-
-
-## How It Works
-
-- The **front HC-SR04 sensor** checks for obstacles in the robot's path.
-- The **depth sensor** (side or downward-facing) can be used to detect cliffs, drops, or pits.
-- A **servo motor** rotates the sensor to scan left/right.
-- Based on the readings, the robot either:
-  - Moves forward
-  - Backs up and turns
-  - Scans for alternative paths
